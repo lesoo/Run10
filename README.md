@@ -1,4 +1,6 @@
-
+<div align="right">
+	<img src="https://github.com/lesoo/Run10/blob/main/10_img/background.png?raw=true" width="50%">
+	</div>
 
 # Run10
 ### 10분동안 장애물을 피해 달리며 점수를 얻는 미니게임 
