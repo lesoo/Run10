@@ -1,5 +1,5 @@
 <div align="right">
-	<img src="https://github.com/lesoo/Run10/blob/main/10_img/background.png?raw=true" width="50%">
+	<img src="https://github.com/lesoo/Run10/blob/main/10_img/run10.png?raw=true" width="50%">
 	</div>
 
 # Run10
@@ -44,6 +44,23 @@
 </table>
 
 <br>
+
+## 구성
+
+<table>
+	<tr><td>플레이어</td><td>배경 화면</td><td>아이템 1</td></tr>
+	<tr><td><img src="https://github.com/lesoo/Run10/blob/main/10_img/player-run-1.png?raw=true" width="250px"></td>
+	<td><img src="https://github.com/lesoo/Run10/blob/main/10_img/background.png?raw=true" width="400px">
+		</td>
+		<td><img src="https://github.com/lesoo/Run10/blob/main/10_img/cherry-1.png?raw=true" width="250px"></td></tr>	
+	<tr><td>장애물</td><td>hp/Timer/Score 체력</td><td>아이템2</td>
+	</tr>
+	<tr><td><img src="https://github.com/lesoo/Run10/blob/main/10_img/eagle-attack-1.png?raw=true" width="250px"></td>
+	<td><img src="https://github.com/lesoo/Run10/blob/main/10_img/mini-heart.png?raw=true" width="250px"></td>
+		<td><img src="https://github.com/lesoo/Run10/blob/main/10_img/gem-1.png?raw=true" width="250px"></td>
+		</tr>	
+	
+</table>
 
 ## 시나리오
 <table>
